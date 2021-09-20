@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nzozor
 - 👀 I’m interested in Front End technologies
-- 🌱 I’m keen on Angular Framework, Data strucutre and Algorithm, Devops
+- 🌱 I’m keen on Angular and React Frameworks, Data strucutre and Algorithm, Devops
 - 📫 nzozor@gmail.com
 
 <!---
